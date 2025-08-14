@@ -133,10 +133,16 @@ uploads/               # Uploaded images directory
 ## Screenshots
 ### Landing
 <img width="1356" height="827" alt="Screenshot 2025-08-14 at 7 01 49 PM" src="https://github.com/user-attachments/assets/a70329d4-3817-4f89-8cc9-ac1b8e70e308" />
+
+
 ###  Specific post
 <img width="1389" height="818" alt="Screenshot 2025-08-14 at 7 02 09 PM" src="https://github.com/user-attachments/assets/b968f876-51bf-4527-b191-beb36bdf657b" />
+
+
 ###  Dark theme Landing
 <img width="1346" height="824" alt="Screenshot 2025-08-14 at 7 02 31 PM" src="https://github.com/user-attachments/assets/d411a4ee-006c-40e1-9c28-f30efc8f6afa" />
+
+
 ###  Create post
 <img width="1319" height="748" alt="Screenshot 2025-08-14 at 7 04 06 PM" src="https://github.com/user-attachments/assets/3cbbe6a4-c700-4064-b7df-cea990696bdb" />
 
