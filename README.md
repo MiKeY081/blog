@@ -31,27 +31,31 @@ A beautiful, modern blog application built with React, TypeScript, and Tailwind 
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
-   \`\`\`bash
+
+    \`\`\`bash
 
    cd devblog
    \`\`\`
 
-2. **Install dependencies**
+3. **Install dependencies**
+
    \`\`\`bash
    npm install
    \`\`\`
 
-3. **Install backend dependencies (optional)**
-   \`\`\`bash
+5. **Install backend dependencies (optional)**
+
+    \`\`\`bash
    cd server
    npm install
    cd ..
 
-5. **Start the backend server (optional)**
-   \`\`\`bash
+7. **Start the backend server (optional)**
+
+    \`\`\`bash
    cd server
 
-6. **Open your browser**
+9. **Open your browser**
    Navigate to \`http://localhost:5173\`
 
 ## 🖼️ Image Upload Feature
